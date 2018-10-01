@@ -1,4 +1,4 @@
-# server
+# Personal organiser middleware
 
 Personal organiser middleware
 
