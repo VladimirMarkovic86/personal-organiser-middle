@@ -37,6 +37,9 @@
 (def organism-delete
      "organism-delete")
 
+(def meal-recommendation
+     "meal-recommendation")
+
 (def functionalities
      (conj
        fns/functionalities
@@ -51,5 +54,6 @@
        organism-create
        organism-read
        organism-update
-       organism-delete))
+       organism-delete
+       meal-recommendation))
 

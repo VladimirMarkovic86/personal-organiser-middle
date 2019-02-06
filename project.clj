@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/personal-organiser-middle "0.2.3"
+(defproject org.clojars.vladimirmarkovic86/personal-organiser-middle "0.2.4"
   :description "Sample middleware"
   :url "http://github.com/VladimirMarkovic86/personal-organiser-middle"
   :license {:name "Eclipse Public License"

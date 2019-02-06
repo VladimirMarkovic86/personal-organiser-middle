@@ -18,3 +18,6 @@
 (def organism-mod-rname
      "Organism moderator")
 
+(def meal-recommendation-rname
+     "Meal recommendation")
+
