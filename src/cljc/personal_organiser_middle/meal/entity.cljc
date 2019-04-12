@@ -30,3 +30,6 @@
 (def part-of-meal-salad
      "salad")
 
+(def rows
+     10)
+

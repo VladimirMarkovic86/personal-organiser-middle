@@ -21,3 +21,6 @@
 (def activity-very-hard-physical-labor
      "very_hard_physical_labor")
 
+(def rows
+     10)
+
